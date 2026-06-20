@@ -36,22 +36,6 @@ Computer Science undergraduate (CGPA: **9.70/10**) building full-stack web appli
 
 <br/>
 
-## Projects
-
-**🧠 AI Prompt Version Control System**
-Git-inspired version control for AI prompts — branching, rollback, and history tracking.
-`FastAPI` `PostgreSQL` `JWT` — [Repo →](https://github.com/vss280107-bit)
-
-**📊 SQL Query Visualizer**
-Renders SQL execution plans as interactive node-based graphs.
-`React` `React Flow` `PostgreSQL` — [Repo →](https://github.com/vss280107-bit)
-
-**🎯 Face Recognition Attendance System**
-Real-time facial recognition for automated attendance logging.
-`Python` `OpenCV` — [Repo →](https://github.com/vss280107-bit)
-
-<br/>
-
 ## GitHub Stats
 
 <div align="center">
@@ -60,6 +44,26 @@ Real-time facial recognition for automated attendance logging.
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vss280107-bit&theme=dark&hide_border=true&background=0D0D0D&ring=FFD60A&fire=FFD60A&currStreakLabel=FFD60A" />
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vss280107-bit&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFD60A&text_color=F5F5F5" />
+
+</div>
+
+<br/>
+
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vss280107-bit&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6&row=1&title=Commits,Stars,Followers,PullRequest,Repositories" />
+
+</div>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vss280107-bit/vss280107-bit/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
