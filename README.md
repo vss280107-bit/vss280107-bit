@@ -121,9 +121,6 @@ A fleet management platform, in progress. Working on the Vehicle Type module wit
 </td>
 </tr>
 </table>
-
-<sub>Repo links intentionally left out — add them once the repos are public/ready to share.</sub>
-
 <hr/>
 
 ## Contribution Activity
